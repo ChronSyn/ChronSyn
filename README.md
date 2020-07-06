@@ -8,6 +8,6 @@
  - :train2: I'm the developer of the [Railscope](https://play.google.com/store/apps/details?id=com.iocube.pantherV2) mobile app
  - :tram: I'm building a library for working with the Transport for London API, as well as preparing for UK Bus Open Data API's
  - :wrench: I built a hardware bridge for Windows using Node and C#, allowing a front-end to interact with hardware devices like thermal printers
- - :computer: I code on Windows, but prefer WSL
+ - :computer: I code on Windows, but prefer WSL over CMD or PS
  - :book: Strong advocate of reading the docs before asking questions, and Googling error messages
  - :bird: Twitter: [@ChronSyn](https://twitter.com/ChronSyn)
