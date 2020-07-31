@@ -2,7 +2,7 @@
 
 **I'm Scott, a full stack developer that specialises in Javascript and Typescript.**
 
- - :page_facing_up: Daily stack: React Native, Expo, Apollo, Node, TailwindCSS
+ - :page_facing_up: Daily stack: React Native, Expo, Apollo, Node, GraphQL, Apollo
  - :whale: I've deployed numerous services and sites using Docker
  - :station: I built [TSOpenLDB](https://github.com/ChronSyn/TSOpenLDB), a Typescript-first library for interacting with the UK National Rail web service
  - :train2: I'm the developer of the [Railscope](https://play.google.com/store/apps/details?id=com.iocube.pantherV2) mobile app
