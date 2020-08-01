@@ -10,7 +10,7 @@
  - :tram: I'm building a library for working with the Transport for London API, as well as preparing for UK Bus Open Data API's
  - :wrench: I built a hardware bridge for Windows using Node and C#, allowing a front-end to interact with hardware devices like thermal printers
  - :computer: I code on Windows, but prefer WSL over CMD or PS
- - :book: Strong advocate of reading the docs before asking questions, and Googling error messages
+ - :book: Strong advocate of understandable documentation
 
 <img align="left" alt="ChronSyn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChronSyn&show_icons=true&hide_border=true" />
 
