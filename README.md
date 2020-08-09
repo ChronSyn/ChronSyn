@@ -2,6 +2,26 @@
 
 **I'm Scott, a full stack developer that specialises in Javascript and Typescript.**
 
+I've worked with lots of different tech over the years, but as a coder, here's my path:
+
+ - Delphi (2006)
+ - Delphi Firemonkey (2010/2011)
+ - Node, Socket.io, JQuery (2014)
+ - AngularJS (v1) (2016)
+ - Angular (v2 - v6) (2017)
+ - Typescript, React, MobX, React Native (2018)
+ - Apollo, C# (2019)
+ 
+I'm the author behind several long-discontinued projects:
+
+ - VTemp: A GPU temperature monitor for NVIDIA graphics cards (2010 - 2013)
+ - Boiled: An SSD-optimizer for steam games (2011 - 2013)
+ - MoPAndBugget: An unofficial bug reporting tool for an online gaming beta (2012)
+ 
+Those projects do not have source available, and there is no plans for them to return. Those were the last delphi projects I worked on, and I've been focused on a Javascript ever since. I also write C# (Winforms) for some projects, though that is if a solution can't be built in JS (e.g. Windows projects which require a window handle).
+
+Though many of my projects are private or closed-source, here's a quick breakdown of some of the things I've done.
+
 ### Summary
  - :page_facing_up: Tools and tech: Typescript, React Native, Expo, Apollo, Node, GraphQL, Apollo
  - :whale: I've deployed numerous personal services and sites using Docker
