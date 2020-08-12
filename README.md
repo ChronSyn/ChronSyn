@@ -4,13 +4,13 @@
 
 I've worked with lots of different tech over the years, but as a coder, here's my path:
 
- - Delphi (2006)
- - Delphi Firemonkey (2010/2011)
- - Node, Socket.io, JQuery (2014)
- - AngularJS (v1) (2016)
- - Angular (v2 - v6) (2017)
- - Typescript, React, MobX, React Native (2018)
- - Apollo, C# (2019)
+ - Delphi (2006 - 2010)
+ - Delphi Firemonkey (2010/2011 - 2013)
+ - Node, Socket.io, JQuery (2014 - Present)
+ - AngularJS (v1) (2016 - 2017)
+ - Angular (v2 - v6) (2017 - 2018)
+ - Typescript, React, MobX, React Native (2018 - Present)
+ - Apollo, C# (2019 - Present)
  
 I'm the author behind several long-discontinued projects:
 
