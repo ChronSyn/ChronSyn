@@ -6,7 +6,8 @@ I've worked with lots of different tech over the years, but as a coder, here's m
 
  - Delphi (2006 - 2010)
  - Delphi Firemonkey (2010/2011 - 2013)
- - Node, Socket.io, JQuery (2014 - Present)
+ - JQuery (2014 - 2016)
+ - Node, Socket.io (2014 - Present)
  - AngularJS (v1) (2016 - 2017)
  - Angular (v2 - v6) (2017 - 2018)
  - Typescript, React, MobX, React Native (2018 - Present)
