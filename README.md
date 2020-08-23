@@ -23,15 +23,6 @@ Those projects do not have source available, and there are no plans for them to 
 
 Though many of my projects are private or closed-source, here's a quick breakdown of some of the things I've done.
 
-### Future Plans
-
-Here's a list of things I'd like to do in the future:
-
- - Learn .NET Core
- - Try Angular again
- - Use Electron for a project
- - Find a project suitable to be built in Deno
-
 ### Summary
  - :page_facing_up: Tools and tech: Typescript, React Native, Expo, Apollo, Node, GraphQL, Apollo
  - :whale: I've deployed numerous personal services and sites using Docker
@@ -44,6 +35,16 @@ Here's a list of things I'd like to do in the future:
  - :penguin: I am familiar with configuring Ubuntu-based Linux servers for Nginx and general server-related tasks
  - :lock: I've deployed commercial Windows projects to client systems with Intune via Azure
  - :book: Strong advocate of understandable documentation
+ 
+ 
+### Future Plans
+
+Here's a list of things I'd like to do in the future:
+
+ - Learn .NET Core
+ - Try Angular again
+ - Use Electron for a project
+ - Find a project suitable to be built in Deno
 
 <img align="left" alt="ChronSyn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChronSyn&show_icons=true&hide_border=true" />
 
