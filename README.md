@@ -45,6 +45,7 @@ Here's a list of things I'd like to do in the future:
  - Try Angular again
  - Use Electron for a project
  - Find a project suitable to be built in Deno
+ - Learn Kubernetes
 
 <img align="left" alt="ChronSyn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChronSyn&show_icons=true&hide_border=true" />
 
