@@ -12,6 +12,7 @@ I've worked with lots of different tech over the years, but as a coder, here's m
  - Angular (v2 - v6) (2017 - 2018)
  - Typescript, React, MobX, React Native (2018 - Present)
  - Apollo, C# (2019 - Present)
+ - .NET Core (2020 - Present)
  
 I'm the author behind several long-discontinued projects:
 
@@ -41,11 +42,11 @@ Though many of my projects are private or closed-source, here's a quick breakdow
 
 Here's a list of things I'd like to do in the future:
 
- - Learn .NET Core
+ - Learn .NET Core (In Progress!)
  - Try Angular again
  - Use Electron for a project
  - Find a project suitable to be built in Deno
- - Learn Kubernetes
+ - Learn Kubernetes (Planning to learn soon)
 
 <img align="left" alt="ChronSyn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChronSyn&show_icons=true&hide_border=true" />
 
