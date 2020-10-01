@@ -14,7 +14,7 @@ I've worked with lots of different tech over the years, but as a coder, here's m
  - Apollo, C# (2019 - Present)
  - .NET Core (2020 - Present)
  
-I'm the author behind several long-discontinued projects:
+I'm the author behind several long-discontinued projects, all of which were written in Delphi:
 
  - VTemp: A GPU temperature monitor for NVIDIA graphics cards (2010 - 2013)
  - Boiled: An SSD-optimizer for steam games (2011 - 2013)
