@@ -43,6 +43,7 @@ Though many of my projects are private or closed-source, here's a quick breakdow
 Here's a list of things I'd like to do in the future:
 
  - Learn .NET Core (In Progress!)
+ - Look into functional computing / "Serverless" (Soon!)
  - Try Angular again
  - Use Electron for a project
  - Find a project suitable to be built in Deno
