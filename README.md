@@ -44,6 +44,7 @@ Here's a list of things I'd like to do in the future:
 
  - Learn .NET Core (In Progress!)
  - Look into functional computing / "Serverless" (Soon!)
+ - Find a project suitable to be built using React-Native-Windows
  - Try Angular again
  - Use Electron for a project
  - Find a project suitable to be built in Deno
