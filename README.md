@@ -7,11 +7,11 @@ I've worked with lots of different tech over the years, but as a coder, here's m
  - Delphi (2006 - 2010)
  - Delphi Firemonkey (2010/2011 - 2013)
  - JQuery (2014 - 2016)
- - Node, Socket.io (2014 - Present)
+ - Node, Express, Socket.io (2014 - Present)
  - AngularJS (v1) (2016 - 2017)
  - Angular (v2 - v6) (2017 - 2018)
- - Typescript, React, MobX, React Native (2018 - Present)
- - Apollo, C# (2019 - Present)
+ - Typescript, React, MobX, React Native, Expo (2018 - Present)
+ - Apollo Server, C# (2019 - Present)
  - .NET Core (2020 - Present)
  
 I'm the author behind several long-discontinued projects, all of which were written in Delphi:
@@ -20,7 +20,9 @@ I'm the author behind several long-discontinued projects, all of which were writ
  - Boiled: An SSD-optimizer for steam games (2011 - 2013)
  - MoPAndBugget: An unofficial bug reporting tool for an online gaming beta (2012)
  
-Those projects do not have source available, and there are no plans for them to return. Those were the last delphi projects I worked on, and I've been focused on a Javascript ever since. I also write C# (Winforms) for some projects, though that is if a solution can't be built in JS (e.g. Windows projects which require a window handle).
+Those projects do not have source available, and there are no plans for them to return. Those were the last delphi projects I worked on, and I've been focused on a Javascript ever since.
+
+I also write C# (Winforms) for some projects, though that is if a solution can't be built in JS (e.g. Windows projects which require a window handle). I have been looking into .NET Core recently.
 
 Though many of my projects are private or closed-source, here's a quick breakdown of some of the things I've done.
 
