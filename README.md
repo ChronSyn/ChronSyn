@@ -12,7 +12,6 @@ I've worked with lots of different tech over the years, but as a coder, here's m
  - Angular (v2 - v6) (2017 - 2018)
  - Typescript, React, MobX, React Native, Expo (2018 - Present)
  - Apollo Server, C# (2019 - Present)
- - .NET Core (2020 - Present)
  
 I'm the author behind several long-discontinued projects, all of which were written in Delphi:
 
@@ -20,9 +19,7 @@ I'm the author behind several long-discontinued projects, all of which were writ
  - Boiled: An SSD-optimizer for steam games (2011 - 2013)
  - MoPAndBugget: An unofficial bug reporting tool for an online gaming beta (2012)
  
-Those projects do not have source available, and there are no plans for them to return. Those were the last delphi projects I worked on, and I've been focused on a Javascript ever since.
-
-I also write C# (Winforms) for some projects, though that is if a solution can't be built in JS (e.g. Windows projects which require a window handle). I have been looking into .NET Core recently.
+Those projects do not have source available, and there are no plans for them to return. Those were the last delphi projects I worked on, and I've been focused on Javascript ever since.
 
 Though many of my projects are private or closed-source, here's a quick breakdown of some of the things I've done.
 
@@ -44,12 +41,8 @@ Though many of my projects are private or closed-source, here's a quick breakdow
 
 Here's a list of things I'd like to do in the future:
 
- - Learn .NET Core (In Progress!)
- - Look into functional computing / "Serverless" (Soon!)
  - Find a project suitable to be built using React-Native-Windows
- - Use Electron for a project
  - Find a project suitable to be built in Deno
- - Learn Kubernetes (Planning to learn soon)
 
 <img align="left" alt="ChronSyn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChronSyn&show_icons=true&hide_border=true" />
 
