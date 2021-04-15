@@ -40,7 +40,7 @@ Though many of my projects are private or closed-source, here's a quick breakdow
 
  - [Supabase](https://supabase.io) - An open-source alternative to Firebase
  - [Expo](https://expo.io) - A framework for developing, building and deploying React Native applications
- - [Moti](https://moti.fyi) - A React Native library for building animated components (Based on [Reanimated 2](https://docs.swmansion.com/react-native-reanimated/)
+ - [Moti](https://moti.fyi) - A React Native library for building animated components (Based on [Reanimated 2](https://docs.swmansion.com/react-native-reanimated/))
 
 ### Let's Connect
  - [Twitter](https://twitter.com/ChronSyn)
