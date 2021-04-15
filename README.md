@@ -27,6 +27,7 @@ Though many of my projects are private or closed-source, here's a quick breakdow
  - :page_facing_up: Tools and tech: Typescript, React Native, Expo, Apollo, Node, GraphQL, Apollo
  - :whale: I've deployed numerous personal services and sites using Docker
  - :card_index: I created [Quicache](https://github.com/ChronSyn/quiCache) (pronounced Key-cache, or Kwi-cache [as in Quick-cache] -- either is fine), a memory-based JS key-value data cache
+ - :balloon: I created [JS-ThemeGen](https://github.com/ChronSyn/themegen), a Javascript library for quickly generating colour shades
  - :wrench: I've built Windows service applications in Node, including a hardware bridge for Windows using Node and C#, allowing a front-end to interact with hardware devices like thermal printers
  - :station: I built [TSOpenLDB](https://github.com/ChronSyn/TSOpenLDB), a Typescript-first library for interacting with the UK National Rail web service
  - :train2: I'm the developer of the [Railscope](https://play.google.com/store/apps/details?id=com.iocube.pantherV2) mobile app - currently unavailable, pending an update
