@@ -35,10 +35,12 @@ Though many of my projects are private or closed-source, here's a quick breakdow
  - :penguin: I am familiar with configuring Ubuntu-based Linux servers for Nginx and general server-related tasks
  - :lock: I've deployed commercial Windows projects to client systems with Intune via Azure
  - :book: Strong advocate of understandable documentation
- 
- 
-<img align="left" alt="ChronSyn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChronSyn&show_icons=true&hide_border=true" />
+
+### Awesome tools I use
+
+ - [Supabase](https://supabase.io) - An open-source alternative to Firebase
+ - [Expo](https://expo.io) - A framework for developing, building and deploying React Native applications
+ - [Moti](https://moti.fyi) - A React Native library for building animated components (Based on [Reanimated 2](https://docs.swmansion.com/react-native-reanimated/)
 
 ### Let's Connect
  - [Twitter](https://twitter.com/ChronSyn)
- - [LinkedIn](https://www.linkedin.com/in/scottpritcharduk/)
