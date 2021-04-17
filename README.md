@@ -11,15 +11,9 @@ I've worked with lots of different tech over the years, but as a coder, here's m
  - AngularJS (v1) (2016 - 2017)
  - Angular (v2 - v6) (2017 - 2018)
  - Typescript, React, MobX, React Native, Expo (2018 - Present)
- - Apollo Server, C# (2019 - Present)
- 
-I'm the author behind several long-discontinued projects, all of which were written in Delphi:
-
- - VTemp: A GPU temperature monitor for NVIDIA graphics cards (2010 - 2013)
- - Boiled: An SSD-optimizer for steam games (2011 - 2013)
- - MoPAndBugget: An unofficial bug reporting tool for an online gaming beta (2012)
- 
-Those projects do not have source available, and there are no plans for them to return. Those were the last delphi projects I worked on, and I've been focused on Javascript ever since.
+ - C# (2019 - 2020)
+ - Apollo Server + Client (2019 - Present)
+ - Supabase (2021 - Present)
 
 Though many of my projects are private or closed-source, here's a quick breakdown of some of the things I've done.
 
