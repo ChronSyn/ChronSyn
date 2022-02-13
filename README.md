@@ -4,22 +4,24 @@
 
 ## My path through technology
 
- - Delphi (2006 - 2010)
- - Delphi Firemonkey (2010 - 2013)
- - JQuery (2014 - 2016)
- - Node, Express
- - Socket.io (2014 - Present [kinda - not using it much these days])
- - AngularJS (v1) (2016 - 2017)
- - Angular (v2 - v6) (2017 - 2018)
- - Typescript, React, MobX, React Native, Expo (2018 - Present)
- - C# (2019 - 2020)
- - Apollo Server + Client (2019 - Present)
- - Supabase (2021 - Present)
+This is a timeline of the main technologies I've used over the years. Those marked as 'commercial' were used in both commercial and non-commercial projects, while those marked as non-commercial were only used in personal/non-commercial projects.
+
+ - Delphi (2006 - 2010, non-commercial)
+ - Delphi Firemonkey (2010 - 2013, non-commercial)
+ - JQuery (2014 - 2016, commercial)
+ - Node, Express (2014 - Present, commercial)
+ - Socket.io (2014 - 2018, commercial)
+ - AngularJS (v1) (2016 - 2017, non-commercial)
+ - Angular (v2 - v6) (2017 - 2018, non-commercial)
+ - Typescript, React, MobX, React Native, Expo (2018 - Present, commercial)
+ - C# (2019 - 2020, commercial)
+ - Apollo Server + Client (2019 - Present, commercial)
+ - Supabase (2021 - Present, commercial)
 
 ### Summary
  - I created [Quicache](https://github.com/ChronSyn/quiCache) (pronounced Key-cache, or Kwi-cache [as in Quick-cache] -- either is fine), a memory-based JS key-value data cache
  - I created [JS-ThemeGen](https://github.com/ChronSyn/themegen), a Javascript library for quickly generating colour shades
- - I created [TheTransportLab](https://thetransportlab.com), a GraphQL API for retrieving rail, TfL tube, and bus transit data in the UK
+ - I created [TheTransportLab](https://thetransportlab.com), a GraphQL API for retrieving rail, TfL tube, and bus transit data in the UK, and a user-facing mobile app
  - I created [TSOpenLDB](https://github.com/TheTransportLab/TSOpenLDB), a library for interacting with the UK National Rail Open LDB staff API
  - I'm an avid fan and contributor to [Supabase](https://supabase.io), and help the community in their Discord server
  - I've worked on a large number of commercial React and React Native projects for clients across the world
