@@ -17,6 +17,7 @@ This is a timeline of the main technologies I've used over the years. Those mark
  - C# (2019 - 2020, commercial)
  - Apollo Server + Client (2019 - Present, commercial)
  - Supabase (2021 - Present, commercial)
+ - Hasura (2022 - Present, non-commercial)
 
 ### Summary
  - I created [Quicache](https://github.com/ChronSyn/quiCache) (pronounced Key-cache, or Kwi-cache [as in Quick-cache] -- either is fine), a memory-based JS key-value data cache
@@ -28,7 +29,7 @@ This is a timeline of the main technologies I've used over the years. Those mark
  - I've worked on a large number of commercial React and React Native projects for clients across the world
  - I've created several thousand proof of concept projects over the years, and less than 5% of them ever get built out to real projects
 
-Most people know me as a coder, but I've also got 20 years experience with non-code related IT stuff.
+Most people know me as a coder, but I've also got 20 years experience with non-code related IT stuff. Yes, I can probably fix your computer.
 
 ### Awesome tools I use
 
