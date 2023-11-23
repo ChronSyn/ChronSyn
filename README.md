@@ -14,10 +14,12 @@ This is a timeline of the main technologies I've used over the years. Those mark
  - AngularJS (v1) (2016 - 2017, non-commercial)
  - Angular (v2 - v6) (2017 - 2018, non-commercial)
  - Typescript, React, MobX, React Native, Expo (2018 - Present, commercial)
+ - Docker (2018 - present, commercial)
  - C# (2019 - 2020, commercial)
- - Apollo Server + Client (2019 - Present, commercial)
+ - Apollo Server + Client (2019 - 2023, commercial)
  - Supabase (2021 - Present, commercial)
- - Hasura (2022 - Present, non-commercial)
+ - Hasura (2022 - 2023, non-commercial) 
+
 
 ### Summary
  - I created [Quicache](https://github.com/ChronSyn/quiCache) (pronounced Key-cache, or Kwi-cache [as in Quick-cache] -- either is fine), a memory-based JS key-value data cache
@@ -25,9 +27,8 @@ This is a timeline of the main technologies I've used over the years. Those mark
  - I created [TheTransportLab](https://thetransportlab.com), a GraphQL API for retrieving rail, TfL tube, and bus transit data in the UK, and a user-facing mobile app
  - I created [TSOpenLDB](https://github.com/TheTransportLab/TSOpenLDB), a library for interacting with the UK National Rail Open LDB staff API
  - I created [the Terraform Supabase template](https://github.com/ChronSyn/terraform-supabase) repo, making it super-easy to get Supabase running locally
- - I'm an avid fan and contributor to [Supabase](https://supabase.io), and help the community in their Discord server
+ - I'm an avid fan of [Supabase](https://supabase.io), and help the community in their Discord server
  - I've worked on a large number of commercial React and React Native projects for clients across the world
- - I've created several thousand proof of concept projects over the years, and less than 5% of them ever get built out to real projects
 
 Most people know me as a coder, but I've also got 20 years experience with non-code related IT stuff. Yes, I can probably fix your computer.
 
