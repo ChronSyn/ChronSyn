@@ -24,10 +24,7 @@ This is a timeline of the main technologies I've used over the years. Those mark
 ### Summary
  - I created [Quicache](https://github.com/ChronSyn/quiCache) (pronounced Key-cache, or Kwi-cache [as in Quick-cache] -- either is fine), a memory-based JS key-value data cache
  - I created [JS-ThemeGen](https://github.com/ChronSyn/themegen), a Javascript library for quickly generating colour shades
- - I created [TheTransportLab](https://thetransportlab.com), a GraphQL API for retrieving rail, TfL tube, and bus transit data in the UK, and a user-facing mobile app
  - I created [TSOpenLDB](https://github.com/TheTransportLab/TSOpenLDB), a library for interacting with the UK National Rail Open LDB staff API
- - I created [the Terraform Supabase template](https://github.com/ChronSyn/terraform-supabase) repo, making it super-easy to get Supabase running locally
- - I'm an avid fan of [Supabase](https://supabase.io), and help the community in their Discord server
  - I've worked on a large number of commercial React and React Native projects for clients across the world
 
 Most people know me as a coder, but I've also got 20 years experience with non-code related IT stuff. Yes, I can probably fix your computer.
@@ -44,5 +41,5 @@ Most people know me as a coder, but I've also got 20 years experience with non-c
 Many of my repos are forks of useful projects. I don't use all of them, but I like to keep a copy of projects that I think might be worth looking into in future.
 
 ### Let's Connect
- - [Twitter](https://twitter.com/ChronSyn)
- - [Dev.to](https://dev.to/chronsyn)
+ - [Twitter](https://twitter.com/ChronSyn) - dev tweets aren't as common these days as they once were
+ - [Dev.to](https://dev.to/chronsyn) - rarely posted to
