@@ -41,5 +41,4 @@ Most people know me as a coder, but I've also got 20 years experience with non-c
 Many of my repos are forks of useful projects. I don't use all of them, but I like to keep a copy of projects that I think might be worth looking into in future.
 
 ### Let's Connect
- - [Twitter](https://twitter.com/ChronSyn) - dev tweets aren't as common these days as they once were
  - [Dev.to](https://dev.to/chronsyn) - rarely posted to
