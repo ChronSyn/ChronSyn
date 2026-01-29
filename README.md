@@ -17,28 +17,31 @@ This is a timeline of the main technologies I've used over the years. Those mark
  - Docker (2018 - present, commercial)
  - C# (2019 - 2020, commercial)
  - Apollo Server + Client (2019 - 2023, commercial)
+ - NextJS (2021 - Present, commercial)
  - Supabase (2021 - Present, commercial)
- - Hasura (2022 - 2023, non-commercial) 
+ - Hasura (2022 - 2023, non-commercial)
+ - Liquid templating (2025 - Present, commercial)
 
 
 ### Summary
  - I created [Quicache](https://github.com/ChronSyn/quiCache) (pronounced Key-cache, or Kwi-cache [as in Quick-cache] -- either is fine), a memory-based JS key-value data cache
  - I created [JS-ThemeGen](https://github.com/ChronSyn/themegen), a Javascript library for quickly generating colour shades
  - I created [TSOpenLDB](https://github.com/TheTransportLab/TSOpenLDB), a library for interacting with the UK National Rail Open LDB staff API
- - I've worked on a large number of commercial React and React Native projects for clients across the world
+ - I created [With-Env-Config](https://github.com/ChronSyn/with-env-config), a small CLI to enable automatically append env variables to your env via the terminal (using appropriate prefixes for specific frameworks)
+ - I've worked on a large number of commercial React and React Native projects for clients across the world in a number of different industries
 
 Most people know me as a coder, but I've also got 20 years experience with non-code related IT stuff. Yes, I can probably fix your computer.
 
 ### Awesome tools I use
 
  - [Supabase](https://supabase.io) - An open-source alternative to Firebase
- - [Expo](https://expo.io) - A framework for developing, building and deploying React Native applications
- - [Moti](https://moti.fyi) - A React Native library for building animated components (Based on [Reanimated 2](https://docs.swmansion.com/react-native-reanimated/))
- - [Portainer](https://www.portainer.io/) - A docker container for helping to manage your docker containers
+ - [Expo](https://expo.io) - A framework for developing, building, and deploying React Native applications
+ - [Storybook](https://storybook.js.org/) - A tool to build, test, and document UI components
 
 ### So many repos!
 
 Many of my repos are forks of useful projects. I don't use all of them, but I like to keep a copy of projects that I think might be worth looking into in future.
 
 ### Let's Connect
+ - [Blog](https://blog.chronsyn.dev/) - An infrequently updated Blog
  - [Dev.to](https://dev.to/chronsyn) - rarely posted to
