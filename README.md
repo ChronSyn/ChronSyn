@@ -21,6 +21,8 @@ This is a timeline of the main technologies I've used over the years. Those mark
  - Supabase (2021 - Present, commercial)
  - Hasura (2022 - 2023, non-commercial)
  - Liquid templating (2025 - Present, commercial)
+ - Fastify (2026 - Present, non-commercial)
+ - BetterAuth (2026 - Present, non-commercial)
 
 
 ### Summary
